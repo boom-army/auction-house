@@ -9,9 +9,6 @@
   "files": [
     "dist"
   ],
-  "publishConfig": {
-    "@formfunction-hq:registry": "https://npm.pkg.github.com"
-  },
   "scripts": {
     "prepare": "husky install",
     "setup": "./scripts/setup.sh",
@@ -39,7 +36,7 @@
     "dump": "./scripts/solana-program-dump.sh"
   },
   "dependencies": {
-    "@formfunction-hq/formfunction-program-shared": "https://github.com/boom-army/formfunction-program-shared.git",
+    "@boom-army/formfunction-program-shared": "0.0.62",
     "@metaplex-foundation/mpl-token-auth-rules": "^1.1.0",
     "@msgpack/msgpack": "^2.8.0",
     "@solana/spl-token": "^0.3.7",
