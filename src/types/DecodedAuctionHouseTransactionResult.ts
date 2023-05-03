@@ -4,7 +4,7 @@
 import {
   DecodedInstructionAccount,
   GenericDecodedTransaction,
-} from "@boom-army/formfunction-program-shared";
+} from "@formfunction-hq/formfunction-program-shared";
 import { IDL as AUCTION_HOUSE_IDL } from "idl/AuctionHouse";
 import AuctionHouseInstructionName from "types/AuctionHouseInstructionName";
 

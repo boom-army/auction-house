@@ -1,7 +1,4 @@
-import {
-  Environment,
-  ixToTx,
-} from "@boom-army/formfunction-program-shared";
+import { Environment, ixToTx } from "@boom-army/formfunction-program-shared";
 import {
   AddressLookupTableProgram,
   Connection,

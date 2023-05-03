@@ -1,7 +1,4 @@
-import {
-  filterNulls,
-  Maybe,
-} from "@boom-army/formfunction-program-shared";
+import { filterNulls, Maybe } from "@boom-army/formfunction-program-shared";
 import { ParsedTransactionWithMeta, PublicKey } from "@solana/web3.js";
 import parseBuyTx from "tests/utils/txs/parse/parseBuyTx";
 import parseCancelTx from "tests/utils/txs/parse/parseCancelTx";
