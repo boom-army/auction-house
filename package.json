@@ -39,7 +39,7 @@
     "dump": "./scripts/solana-program-dump.sh"
   },
   "dependencies": {
-    "@formfunction-hq/formfunction-program-shared": "../formfunction-program-shared",
+    "@formfunction-hq/formfunction-program-shared": "https://github.com/boom-army/formfunction-program-shared.git",
     "@metaplex-foundation/mpl-token-auth-rules": "^1.1.0",
     "@msgpack/msgpack": "^2.8.0",
     "@solana/spl-token": "^0.3.7",

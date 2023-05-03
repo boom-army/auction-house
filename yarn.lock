@@ -342,8 +342,9 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@formfunction-hq/formfunction-program-shared@../formfunction-program-shared":
+"@formfunction-hq/formfunction-program-shared@https://github.com/boom-army/formfunction-program-shared.git":
   version "0.0.62"
+  resolved "https://github.com/boom-army/formfunction-program-shared.git#c2736baf8cf03d5bd725d6cb56697051a9b4d608"
   dependencies:
     "@solana/spl-token" "^0.3.7"
     bn.js "^5.2.1"
