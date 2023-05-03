@@ -2,7 +2,7 @@ import {
   chunkArray,
   getCompareByPropertyFunction,
   serializeMerkleProof,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { PublicKey } from "@solana/web3.js";
 import MERKLE_TREE_LEAF_COUNT_LIMIT from "constants/MerkleTreeLeafCountLimit";
 import MerkleAllowlistBuyerInfo from "types/merkle-tree/MerkleAllowlistBuyerInfo";

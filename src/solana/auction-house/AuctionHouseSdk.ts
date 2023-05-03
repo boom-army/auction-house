@@ -10,7 +10,7 @@ import {
   Maybe,
   MaybeUndef,
   MerkleRoot,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { createUpdateMetadataAccountInstruction } from "@metaplex-foundation/mpl-token-metadata";
 import {
   AccountMeta,

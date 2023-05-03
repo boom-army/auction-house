@@ -1,4 +1,4 @@
-import { Maybe } from "@formfunction-hq/formfunction-program-shared";
+import { Maybe } from "@boom-army/formfunction-program-shared";
 import { TOKEN_PROGRAM_ID } from "@solana/spl-token";
 import {
   ParsedInstruction,

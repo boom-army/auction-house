@@ -1,7 +1,7 @@
 import {
   expectPublicKeysEqual,
   requestAirdrops,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { Keypair, LAMPORTS_PER_SOL } from "@solana/web3.js";
 import dayjs from "dayjs";
 import expectTransactionToFailWithErrorCode from "tests/utils/errors/expectTransactionToFailWithErrorCode";

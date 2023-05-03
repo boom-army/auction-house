@@ -1,4 +1,4 @@
-import { findAtaPda } from "@formfunction-hq/formfunction-program-shared";
+import { findAtaPda } from "@boom-army/formfunction-program-shared";
 import { PublicKey } from "@solana/web3.js";
 import { TREASURY_WITHDRAWAL_DESTINATION_OWNER } from "tests/constants/AuctionHouse";
 import { IS_NATIVE } from "tests/setup";

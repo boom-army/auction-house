@@ -1,4 +1,4 @@
-import { Maybe } from "@formfunction-hq/formfunction-program-shared";
+import { Maybe } from "@boom-army/formfunction-program-shared";
 import { PublicKey, TransactionInstruction } from "@solana/web3.js";
 import findLastBidPrice from "solana/pdas/findLastBidPrice";
 import AuctionHouseProgram from "types/AuctionHouseProgram";

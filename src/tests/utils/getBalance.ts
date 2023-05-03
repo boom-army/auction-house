@@ -1,4 +1,4 @@
-import { findAtaPda } from "@formfunction-hq/formfunction-program-shared";
+import { findAtaPda } from "@boom-army/formfunction-program-shared";
 import { Connection, PublicKey } from "@solana/web3.js";
 import { IS_NATIVE } from "tests/setup";
 import getTreasuryMint from "tests/utils/getTreasuryMint";

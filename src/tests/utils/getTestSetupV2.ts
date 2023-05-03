@@ -12,7 +12,7 @@ import {
   Maybe,
   mintTo,
   requestAirdrops,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { DataV2, Metadata } from "@metaplex-foundation/mpl-token-metadata";
 import {
   Connection,

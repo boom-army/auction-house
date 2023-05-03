@@ -1,4 +1,4 @@
-import { stringToPublicKey } from "@formfunction-hq/formfunction-program-shared";
+import { stringToPublicKey } from "@boom-army/formfunction-program-shared";
 import { PublicKey } from "@solana/web3.js";
 import AddressLookupTableFileData from "address-lookup-table/types/AddressLookupTableFileData";
 import { readFileSync } from "fs";

@@ -1,4 +1,4 @@
-import { requestAirdrops } from "@formfunction-hq/formfunction-program-shared";
+import { requestAirdrops } from "@boom-army/formfunction-program-shared";
 import { Keypair } from "@solana/web3.js";
 import getConnectionForTest from "tests/utils/getConnectionForTest";
 import createProgrammableNft from "tests/utils/programmable-nfts/createProgrammableNft";

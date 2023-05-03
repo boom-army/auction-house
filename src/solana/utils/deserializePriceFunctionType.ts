@@ -1,4 +1,4 @@
-import { uppercaseFirstLetter } from "@formfunction-hq/formfunction-program-shared";
+import { uppercaseFirstLetter } from "@boom-army/formfunction-program-shared";
 import PriceFunctionType from "types/enum/PriceFunctionType";
 
 export default function deserializePriceFunctionType(

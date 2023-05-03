@@ -8,7 +8,7 @@ import {
   range,
   requestAirdrops,
   sleep,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { Keypair, LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";
 import dayjs from "dayjs";
 import buyEditionForTest from "tests/utils/buyEditionForTest";

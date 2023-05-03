@@ -1,4 +1,4 @@
-import { assertUnreachable } from "@formfunction-hq/formfunction-program-shared";
+import { assertUnreachable } from "@boom-army/formfunction-program-shared";
 import GeneralProgramError, {
   ACCOUNT_IS_FROZEN,
   CONSTRAINT_HAS_ONE,

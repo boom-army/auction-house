@@ -3,7 +3,7 @@ import {
   Environment,
   forEachAsync,
   ixToTx,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import {
   AddressLookupTableProgram,
   Connection,

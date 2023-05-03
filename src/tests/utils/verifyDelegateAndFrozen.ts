@@ -1,4 +1,4 @@
-import { getTokenAccountInfo } from "@formfunction-hq/formfunction-program-shared";
+import { getTokenAccountInfo } from "@boom-army/formfunction-program-shared";
 import { Connection, Keypair, PublicKey } from "@solana/web3.js";
 import findAuctionHouseProgramAsSigner from "solana/pdas/findAuctionHouseProgramAsSigner";
 import expectEqPubkeys from "tests/utils/expectEqPubkeys";

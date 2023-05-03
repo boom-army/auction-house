@@ -1,4 +1,4 @@
-import { Environment } from "@formfunction-hq/formfunction-program-shared";
+import { Environment } from "@boom-army/formfunction-program-shared";
 import { PublicKey } from "@solana/web3.js";
 import getAuctionHouseAddressesForEnvironment from "address-lookup-table/addresses/getAuctionHouseAddressesForEnvironment";
 import getSolanaAddresses from "address-lookup-table/addresses/getSolanaAddresses";

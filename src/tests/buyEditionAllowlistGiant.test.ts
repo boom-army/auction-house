@@ -3,7 +3,7 @@ import {
   generateKeypairArray,
   range,
   requestAirdrops,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { Keypair, LAMPORTS_PER_SOL } from "@solana/web3.js";
 import MERKLE_TREE_LEAF_COUNT_LIMIT from "constants/MerkleTreeLeafCountLimit";
 import dayjs from "dayjs";

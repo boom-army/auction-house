@@ -3,7 +3,7 @@ import {
   getBalanceForMint,
   logIfDebug,
   Maybe,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { DataV2 } from "@metaplex-foundation/mpl-token-metadata";
 import {
   AccountMeta,

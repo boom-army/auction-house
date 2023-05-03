@@ -1,4 +1,4 @@
-import { ANTI_BOT_DEV_AUTHORITY_KEYPAIR } from "@formfunction-hq/formfunction-program-shared";
+import { ANTI_BOT_DEV_AUTHORITY_KEYPAIR } from "@boom-army/formfunction-program-shared";
 import {
   Connection,
   Keypair,

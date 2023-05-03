@@ -1,4 +1,4 @@
-import { transfer } from "@formfunction-hq/formfunction-program-shared";
+import { transfer } from "@boom-army/formfunction-program-shared";
 import { Keypair, PublicKey } from "@solana/web3.js";
 import AuctionHouseSdk from "solana/auction-house/AuctionHouseSdk";
 import {

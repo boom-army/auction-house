@@ -1,7 +1,7 @@
 import {
   Environment,
   sleep,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { Connection, PublicKey } from "@solana/web3.js";
 import AuctionHouseOverrideForTest from "address-lookup-table/types/AuctionHouseOverrideForTest";
 import handleExtendTable from "address-lookup-table/utils/handleExtendTable";

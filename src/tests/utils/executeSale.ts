@@ -1,7 +1,7 @@
 import {
   getTokenAmount,
   logIfDebug,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import {
   Connection,
   Keypair,

@@ -1,4 +1,4 @@
-import { PdaResult } from "@formfunction-hq/formfunction-program-shared";
+import { PdaResult } from "@boom-army/formfunction-program-shared";
 import { PublicKey } from "@solana/web3.js";
 import { LAST_BID_PRICE } from "constants/SolanaConstants";
 import getSolAuctionHouseAccountByProgramId from "solana/auction-house/getSolAuctionHouseAccountByProgramId";

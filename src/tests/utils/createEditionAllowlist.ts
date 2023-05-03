@@ -2,7 +2,7 @@ import {
   chunkArray,
   forEachAsync,
   randomNumberInRange,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { Connection, Keypair, PublicKey } from "@solana/web3.js";
 import AuctionHouseSdk from "solana/auction-house/AuctionHouseSdk";
 import APPEND_MERKLE_ROOTS_LIMIT_PER_TX from "tests/constants/AppendMerkleRootsLimitPerTx";

@@ -2,7 +2,7 @@ import {
   convertNumberForIxArg,
   findEditionPda,
   Maybe,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import {
   PublicKey,
   SystemProgram,

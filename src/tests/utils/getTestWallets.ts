@@ -1,4 +1,4 @@
-import { requestAirdrops } from "@formfunction-hq/formfunction-program-shared";
+import { requestAirdrops } from "@boom-army/formfunction-program-shared";
 import { Connection, Keypair } from "@solana/web3.js";
 
 export default async function getTestWallets(

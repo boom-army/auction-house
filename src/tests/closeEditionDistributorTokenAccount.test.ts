@@ -1,4 +1,4 @@
-import { getTokenAmount } from "@formfunction-hq/formfunction-program-shared";
+import { getTokenAmount } from "@boom-army/formfunction-program-shared";
 import { Keypair, LAMPORTS_PER_SOL } from "@solana/web3.js";
 import getConnectionForTest from "tests/utils/getConnectionForTest";
 import getEditionDistributorSetup from "tests/utils/getEditionDistributorSetup";

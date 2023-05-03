@@ -4,7 +4,7 @@ import {
   findEditionPda,
   findTokenMetadataPda,
   ixToTx,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { PROGRAM_ID as TOKEN_AUTH_RULES_ID } from "@metaplex-foundation/mpl-token-auth-rules";
 import {
   AssetData,

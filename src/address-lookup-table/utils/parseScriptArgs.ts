@@ -3,7 +3,7 @@ import {
   Maybe,
   MaybeUndef,
   stringToPublicKey,
-} from "@formfunction-hq/formfunction-program-shared";
+} from "@boom-army/formfunction-program-shared";
 import { PublicKey } from "@solana/web3.js";
 import parseEnvironmentArg from "address-lookup-table/utils/parseEnvironmentArg";
 import yargs from "yargs";
