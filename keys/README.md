@@ -1,1 +1,0 @@
-These are throwaway keys for testing/devnet. They should not be used for production deploys.
