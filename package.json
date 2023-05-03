@@ -39,7 +39,7 @@
     "dump": "./scripts/solana-program-dump.sh"
   },
   "dependencies": {
-    "@formfunction-hq/formfunction-program-shared": "0.0.61",
+    "@formfunction-hq/formfunction-program-shared": "../formfunction-program-shared",
     "@metaplex-foundation/mpl-token-auth-rules": "^1.1.0",
     "@msgpack/msgpack": "^2.8.0",
     "@solana/spl-token": "^0.3.7",
