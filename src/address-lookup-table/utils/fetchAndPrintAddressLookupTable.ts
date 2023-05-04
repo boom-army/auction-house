@@ -1,4 +1,4 @@
-import { jsonStringify } from "@boom-army/formfunction-program-shared";
+import { jsonStringify } from "@boom-army/boom-program-tools";
 import { Connection, PublicKey } from "@solana/web3.js";
 
 export default async function fetchAndPrintAddressLookupTable(

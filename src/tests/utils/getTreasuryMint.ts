@@ -2,7 +2,7 @@ import {
   ixsToTx,
   Maybe,
   WRAPPED_SOL_MINT,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import {
   createInitializeMintInstruction,
   MintLayout,

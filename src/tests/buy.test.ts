@@ -1,4 +1,4 @@
-import { ixToTx, transfer } from "@boom-army/formfunction-program-shared";
+import { ixToTx, transfer } from "@boom-army/boom-program-tools";
 import { DataV2 } from "@metaplex-foundation/mpl-token-metadata";
 import { Keypair, LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";
 import dayjs from "dayjs";

@@ -1,7 +1,7 @@
 import {
   assertUnreachable,
   Environment,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { PublicKey } from "@solana/web3.js";
 
 export default function getAuctionHouseAuthorityForEnvironment(

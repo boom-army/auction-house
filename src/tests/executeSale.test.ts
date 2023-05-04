@@ -4,7 +4,7 @@ import {
   ixToTx,
   requestAirdrops,
   transfer,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { DataV2 } from "@metaplex-foundation/mpl-token-metadata";
 import { createRevokeInstruction } from "@solana/spl-token";
 import { Keypair, LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";

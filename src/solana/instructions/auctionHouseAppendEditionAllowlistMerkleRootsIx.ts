@@ -1,4 +1,4 @@
-import { MerkleRoot } from "@boom-army/formfunction-program-shared";
+import { MerkleRoot } from "@boom-army/boom-program-tools";
 import {
   PublicKey,
   SystemProgram,

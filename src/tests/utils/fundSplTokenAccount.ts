@@ -2,7 +2,7 @@ import {
   createAtaIfNotExists,
   logIfDebug,
   mintTo,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { Connection, Keypair } from "@solana/web3.js";
 import { SPL_TOKEN_DECIMALS } from "tests/constants/AuctionHouse";
 import { WALLET_SPL_TOKEN_MINT_AUTHORITY } from "tests/constants/Wallets";

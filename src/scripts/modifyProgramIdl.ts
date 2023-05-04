@@ -1,4 +1,4 @@
-import modifyProgramIdlScript from "@boom-army/formfunction-program-shared/dist/scripts/modifyProgramIdlScript";
+import modifyProgramIdlScript from "@boom-army/boom-program-tools/dist/scripts/modifyProgramIdlScript";
 
 modifyProgramIdlScript({
   decodedTransactionResultTypeFilePath:

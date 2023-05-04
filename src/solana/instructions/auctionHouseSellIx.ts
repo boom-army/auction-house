@@ -2,7 +2,7 @@ import {
   findEditionPda,
   findTokenMetadataPda,
   TOKEN_METADATA_PROGRAM_ID,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { web3 } from "@project-serum/anchor";
 import { TOKEN_PROGRAM_ID } from "@solana/spl-token";
 import { PublicKey, TransactionInstruction } from "@solana/web3.js";

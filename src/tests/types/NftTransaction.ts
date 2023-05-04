@@ -1,4 +1,4 @@
-import { MaybeUndef } from "@boom-army/formfunction-program-shared";
+import { MaybeUndef } from "@boom-army/boom-program-tools";
 import NftTransactionType from "tests/types/enums/NftTransactionType";
 
 type NftTransaction = {

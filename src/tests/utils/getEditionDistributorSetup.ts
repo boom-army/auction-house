@@ -11,7 +11,7 @@ import {
   logIfDebug,
   mintTo,
   requestAirdrops,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { Keypair, PublicKey } from "@solana/web3.js";
 import AuctionHouseSdk from "solana/auction-house/AuctionHouseSdk";
 import findEditionDistributor from "solana/pdas/findEditionDistributor";

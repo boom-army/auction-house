@@ -2,7 +2,7 @@ import {
   assertUnreachable,
   Environment,
   WRAPPED_SOL_MINT,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { PublicKey } from "@solana/web3.js";
 import Currency from "address-lookup-table/types/Currency";
 

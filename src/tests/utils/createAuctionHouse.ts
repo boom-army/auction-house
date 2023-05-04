@@ -1,4 +1,4 @@
-import { logIfDebug } from "@boom-army/formfunction-program-shared";
+import { logIfDebug } from "@boom-army/boom-program-tools";
 import { Connection, Keypair, PublicKey } from "@solana/web3.js";
 import AuctionHouseOverrideForTest from "address-lookup-table/types/AuctionHouseOverrideForTest";
 import extendAddressLookupTableForTest from "address-lookup-table/utils/extendAddressLookupTableForTest";

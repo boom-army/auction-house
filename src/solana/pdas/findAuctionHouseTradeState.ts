@@ -1,4 +1,4 @@
-import { PdaResult } from "@boom-army/formfunction-program-shared";
+import { PdaResult } from "@boom-army/boom-program-tools";
 import { BN } from "@project-serum/anchor";
 import { PublicKey } from "@solana/web3.js";
 import { AUCTION_HOUSE } from "constants/SolanaConstants";

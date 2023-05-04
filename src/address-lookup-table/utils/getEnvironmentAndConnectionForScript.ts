@@ -1,4 +1,4 @@
-import { Environment } from "@boom-army/formfunction-program-shared";
+import { Environment } from "@boom-army/boom-program-tools";
 import { Connection } from "@solana/web3.js";
 import getRpcFromEnvironment from "address-lookup-table/utils/getRpcFromEnvironment";
 import parseScriptArgs from "address-lookup-table/utils/parseScriptArgs";

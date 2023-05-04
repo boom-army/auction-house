@@ -7,7 +7,7 @@ import {
   logIfDebug,
   mintTo,
   requestAirdrops,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import {
   createTransferCheckedInstruction,
   createTransferInstruction,

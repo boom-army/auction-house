@@ -1,4 +1,4 @@
-import { Maybe } from "@boom-army/formfunction-program-shared";
+import { Maybe } from "@boom-army/boom-program-tools";
 import {
   ACCOUNT_IS_FROZEN,
   CONSTRAINT_HAS_ONE,

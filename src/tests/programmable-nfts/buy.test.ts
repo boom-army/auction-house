@@ -2,7 +2,7 @@ import {
   ixToTx,
   Maybe,
   transfer,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { DataV2, Metadata } from "@metaplex-foundation/mpl-token-metadata";
 import { Keypair, LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";
 import dayjs from "dayjs";

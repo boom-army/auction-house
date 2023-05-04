@@ -1,4 +1,4 @@
-import { WRAPPED_SOL_MINT } from "@boom-army/formfunction-program-shared";
+import { WRAPPED_SOL_MINT } from "@boom-army/boom-program-tools";
 import {
   ASSOCIATED_TOKEN_PROGRAM_ID,
   TOKEN_PROGRAM_ID,

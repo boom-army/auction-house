@@ -1,7 +1,7 @@
 import {
   getTokenAccountInfo,
   logIfDebug,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { Keypair, LAMPORTS_PER_SOL, PublicKey } from "@solana/web3.js";
 import AuctionHouseSdk from "solana/auction-house/AuctionHouseSdk";
 import findAuctionHouseProgramAsSigner from "solana/pdas/findAuctionHouseProgramAsSigner";

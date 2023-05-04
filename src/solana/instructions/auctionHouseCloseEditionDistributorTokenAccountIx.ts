@@ -1,4 +1,4 @@
-import { findAtaPda } from "@boom-army/formfunction-program-shared";
+import { findAtaPda } from "@boom-army/boom-program-tools";
 import { TOKEN_PROGRAM_ID } from "@solana/spl-token";
 import { PublicKey, TransactionInstruction } from "@solana/web3.js";
 import findEditionDistributor from "solana/pdas/findEditionDistributor";

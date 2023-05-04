@@ -4,7 +4,7 @@ import {
   findEditionPda,
   getTokenAccountInfo,
   requestAirdrops,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import {
   Edition,
   MasterEditionV2,

@@ -1,4 +1,4 @@
-import { Maybe } from "@boom-army/formfunction-program-shared";
+import { Maybe } from "@boom-army/boom-program-tools";
 import { BorshInstructionCoder } from "@project-serum/anchor";
 import {
   ParsedInstruction,

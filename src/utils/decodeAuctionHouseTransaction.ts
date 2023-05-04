@@ -1,7 +1,7 @@
 import {
   decodeTransactionUsingProgramIdl,
   Maybe,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { ParsedTransactionWithMeta, PublicKey } from "@solana/web3.js";
 import AUCTION_HOUSE_PROGRAM_IDLS from "idl/AuctionHouseProgramIdls";
 import DecodedAuctionHouseTransactionResult from "types/DecodedAuctionHouseTransactionResult";

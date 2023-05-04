@@ -1,4 +1,4 @@
-import { MerkleTree } from "@boom-army/formfunction-program-shared";
+import { MerkleTree } from "@boom-army/boom-program-tools";
 import MerkleAllowlistBuyerWithProof from "types/merkle-tree/MerkleAllowlistBuyerWithProof";
 
 type MerkleAllowlistBuyersList = {

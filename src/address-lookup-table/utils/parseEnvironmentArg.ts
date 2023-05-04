@@ -1,7 +1,7 @@
 import {
   Environment,
   MaybeUndef,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 
 export default function parseEnvironmentArg(
   environment: MaybeUndef<string>

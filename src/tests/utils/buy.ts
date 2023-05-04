@@ -1,4 +1,4 @@
-import { logIfDebug } from "@boom-army/formfunction-program-shared";
+import { logIfDebug } from "@boom-army/boom-program-tools";
 import {
   Connection,
   Keypair,

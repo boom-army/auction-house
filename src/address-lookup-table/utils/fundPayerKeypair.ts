@@ -2,7 +2,7 @@ import {
   assertUnreachable,
   Environment,
   requestAirdrops,
-} from "@boom-army/formfunction-program-shared";
+} from "@boom-army/boom-program-tools";
 import { Connection, Keypair } from "@solana/web3.js";
 
 export default async function fundPayerKeypair(

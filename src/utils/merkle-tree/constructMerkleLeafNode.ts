@@ -1,4 +1,4 @@
-import { MerkleLeaf } from "@boom-army/formfunction-program-shared";
+import { MerkleLeaf } from "@boom-army/boom-program-tools";
 import { PublicKey } from "@solana/web3.js";
 import BN from "bn.js";
 import MerkleAllowlistBuyerInfo from "types/merkle-tree/MerkleAllowlistBuyerInfo";

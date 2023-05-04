@@ -307,10 +307,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@boom-army/formfunction-program-shared@0.0.62":
-  version "0.0.62"
-  resolved "https://registry.yarnpkg.com/@boom-army/formfunction-program-shared/-/formfunction-program-shared-0.0.62.tgz#dbf92cba7cabb2aafc5091a5e36c1525ac2cfa07"
-  integrity sha512-ftDqHZQc0PpG3bYdeg5GrIaX2/zapd2sgHvt2sLIyeaQzugSt7VzHQu0n5voZtiuDzwKEIZTeBQzmeIWIovcPQ==
+"@boom-army/boom-program-tools@0.0.63":
+  version "0.0.63"
+  resolved "https://registry.yarnpkg.com/@boom-army/boom-program-tools/-/boom-program-tools-0.0.63.tgz#98cc7028a5c7d6977ec138db6617645e1ab88439"
+  integrity sha512-BXKr5YhmTsI1DhiNfx8W6ruZiT8dOe2NfHBFq+G/peG4H1GdP/vmZn6FaPMYBITGJshkgLUGybwPVeHNSjmRpw==
   dependencies:
     "@solana/spl-token" "^0.3.7"
     bn.js "^5.2.1"

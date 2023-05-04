@@ -1,4 +1,4 @@
-import { Environment } from "@boom-army/formfunction-program-shared";
+import { Environment } from "@boom-army/boom-program-tools";
 import getAntiBotAuthorityForEnvironment from "address-lookup-table/addresses/auction-house/getAntiBotAuthorityForEnvironment";
 import getAuctionHouseAccountKeyForCurrency from "address-lookup-table/addresses/auction-house/getAuctionHouseAccountKeyForCurrency";
 import getAuctionHouseAuthorityForEnvironment from "address-lookup-table/addresses/auction-house/getAuctionHouseAuthorityForEnvironment";

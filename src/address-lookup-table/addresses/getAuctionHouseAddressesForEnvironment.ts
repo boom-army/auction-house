@@ -1,4 +1,4 @@
-import { Environment } from "@boom-army/formfunction-program-shared";
+import { Environment } from "@boom-army/boom-program-tools";
 import { PublicKey } from "@solana/web3.js";
 import getAuctionHouseAddressesForCurrency from "address-lookup-table/addresses/auction-house/getAuctionHouseAddressesForCurrency";
 import AuctionHouseOverrideForTest from "address-lookup-table/types/AuctionHouseOverrideForTest";
